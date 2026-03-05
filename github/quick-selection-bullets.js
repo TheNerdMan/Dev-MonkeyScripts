@@ -6,6 +6,9 @@
 // @grant        none
 // @author       TheNerdMan
 // @description  Adds quick selection bullets to the GitHub PR review section for structured reviews.
+// @downloadURL  https://raw.githubusercontent.com/TheNerdMan/Dev-MonkeyScripts/refs/heads/main/github/quick-selection-bullets.js
+// @supportURL   https://github.com/TheNerdMan/Dev-MonkeyScripts/issues
+// @homepageURL  https://github.com/TheNerdMan/Dev-MonkeyScripts
 // ==/UserScript==
 
 (() => {

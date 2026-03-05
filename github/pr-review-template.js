@@ -6,6 +6,9 @@
 // @grant        none
 // @author       TheNerdMan
 // @description  Adds a button to quickly paste a PR review template into the comment box, with customizable content stored in localStorage. This script is designed to help reviewers quickly structure their feedback with a single click, while still allowing for customization of the template content.
+// @downloadURL  https://raw.githubusercontent.com/TheNerdMan/Dev-MonkeyScripts/refs/heads/main/github/pr-review-template.js
+// @supportURL   https://github.com/TheNerdMan/Dev-MonkeyScripts/issues
+// @homepageURL  https://github.com/TheNerdMan/Dev-MonkeyScripts
 // ==/UserScript==
 
 (() => {

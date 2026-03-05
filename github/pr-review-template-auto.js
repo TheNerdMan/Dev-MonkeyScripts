@@ -6,6 +6,9 @@
 // @grant        none
 // @author       TheNerdMan
 // @description  Automatically inserts a PR review template into the comment box if it's empty, with customizable content stored in localStorage. This script is designed to help reviewers quickly structure their feedback without needing to click a button, while still allowing for customization of the template content.
+// @downloadURL  https://raw.githubusercontent.com/TheNerdMan/Dev-MonkeyScripts/refs/heads/main/github/pr-review-template-auto.js
+// @supportURL   https://github.com/TheNerdMan/Dev-MonkeyScripts/issues
+// @homepageURL  https://github.com/TheNerdMan/Dev-MonkeyScripts
 // ==/UserScript==
 
 (() => {
