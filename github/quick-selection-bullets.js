@@ -4,6 +4,8 @@
 // @version      1.2
 // @match        https://github.com/*/pull/*
 // @grant        none
+// @author       TheNerdMan
+// @description  Adds quick selection bullets to the GitHub PR review section for structured reviews.
 // ==/UserScript==
 
 (() => {
